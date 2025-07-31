@@ -1,4 +1,4 @@
-const perguntasAgronomia = [
+const perguntas = [
   {
     categoria:  "Solo",
     pergunta: "Quais são os principais métodos de análise de solo?",
