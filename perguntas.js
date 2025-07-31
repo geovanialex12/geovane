@@ -1,6 +1,6 @@
-const perguntas = [
+ const perguntas = [
   {
-    categoria:  "Solo",
+    categoria: "Solo",
     pergunta: "Quais são os principais métodos de análise de solo?",
     resposta: "Os principais métodos incluem análise química (pH, nutrientes), análise física (textura, estrutura) e análise biológica (microorganismos)."
   },
